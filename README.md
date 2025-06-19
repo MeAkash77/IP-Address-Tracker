@@ -27,7 +27,7 @@ This is a solution to the [IP address tracker challenge on Frontend Mentor](http
 First, clone the repository:
 
 ```sh
-git clone https://github.com/yakin-ts/ip-address-tracker.git
+git clone https://github.com/MeAkash77/IP-Address-Tracker.git
 ```
 Then, navigate into the directory and install the dependencies:
 
@@ -47,13 +47,4 @@ To build the project:
 ```sh
 npm run build
 ```
-## Connect
-LinkedIn : [Yakin Teshome](https://www.linkedin.com/in/yakin-teshome/)
-Frontend Mentor: [Yakin T.](https://www.frontendmentor.io/profile/yakin-ts)
-
-## Contributing
-
-Pull requests are welcome. Feel free to open an issue first to discuss what you would like to change as well.
-
-
 
