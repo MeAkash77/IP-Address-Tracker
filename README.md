@@ -13,7 +13,7 @@ This is a solution to the [IP address tracker challenge on Frontend Mentor](http
 
 ## Demo Link
 
-- Live Site URL : [IP Address Tracker](https://ip-address-tracker-cyan-seven.vercel.app/)
+- Live Site URL : [IP Address Tracker](https://ip-address-tracker-iota-eight.vercel.app/)
 
 ## Built With
 
